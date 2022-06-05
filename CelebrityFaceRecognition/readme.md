@@ -11,7 +11,6 @@ Here is the folder structure,
 * UI : This contains ui website code 
 * server: Python flask server
 * model: Contains python notebook for model building
-* google_image_scrapping: code to scrap google for images
 * images_dataset: Dataset used for our model training
 
 Technologies used in this project,
@@ -24,4 +23,4 @@ Technologies used in this project,
 7. HTML/CSS/Javascript for UI
 
 
-Here is the video playlist for entire project: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
+
